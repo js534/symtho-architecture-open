@@ -43,6 +43,10 @@ SYMTHO is a WhatsApp-based AI healthcare triage system designed for rural India 
 - [Safety Engine (IMCEO)](docs/safety-engine.md)
 - [Why WhatsApp?](docs/why-whatsapp.md)
 
+## About This Repository
+
+> **This is a public architecture and documentation repo.** It describes the design, principles, and safety mechanisms behind SYMTHO. The production source code is maintained in a separate private repository.
+
 ## Status
 
 🔨 MVP in active development (March 2026)
